@@ -409,3 +409,7 @@ Known limitations:
 - The arm poses had to be saved carefully because small changes in robot position could affect gripper alignment. We fixed this by saving separate poses for `PRE-PICKUP`, `Pickup OPEN`, `Grip CLOSED`, and `LIFTED` instead of using one arm movement.
 - The gripper timing was not long enough at first, so the lift sometimes started before the block was properly held. We fixed this by increasing the gripper close duration before moving to the lifted pose.
 - Low battery can make the robot shut off or behave less consistently.
+
+## Contribution statement
+
+All group members worked together on the assignment. We were all involved in different parts of the project, including writing and adjusting the code, testing the robot in the lab, recording and re-testing the pickup/drop paths, fixing issues during the demo setup, and preparing the README and reflection/report. The work was completed as a group effort rather than being split into completely separate individual parts.
