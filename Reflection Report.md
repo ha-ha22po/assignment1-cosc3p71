@@ -142,4 +142,4 @@ For drop-off we would also like to test camera alignment in the future. In our d
 
 ## Contribution statement
 
-All group members worked together on the assignment. We were all involved in different parts of the project, including writing and adjusting the code, testing the robot in the lab, recording and re-testing the pickup/drop paths, fixing issues during the demo setup, and preparing the README and reflection/report. The work was completed as a group effort rather than being split into completely separate individual parts.
+All group members worked together on the assignment. We were all involved in different parts of the project, including the code, testing the robot in the lab, recording and re-testing the pickup/drop paths, fixing issues during the demo setup, and preparing the README and reflection/report. The work was completed as a group effort rather than being split into completely separate individual parts.
