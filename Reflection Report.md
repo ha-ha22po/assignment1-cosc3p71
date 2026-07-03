@@ -138,6 +138,4 @@ Known limitations:
 
 ## What we would do with more time
 
-With more time, we would improve the camera detection so it is less affected by lighting. We would also add a better retry behaviour, for example making the robot back up slightly and try again if it cannot see the block.
-
 For drop-off we would also like to test camera alignment in the future. In our demo, we used the recorded drop path and saved drop poses but with more time we would try using the camera for the drop-off part as well.
