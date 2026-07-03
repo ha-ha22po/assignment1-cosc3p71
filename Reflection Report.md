@@ -139,3 +139,7 @@ Known limitations:
 ## What we would do with more time
 
 For drop-off we would also like to test camera alignment in the future. In our demo, we used the recorded drop path and saved drop poses but with more time we would try using the camera for the drop-off part as well.
+
+## Contribution statement
+
+All group members worked together on the assignment. We were all involved in different parts of the project, including writing and adjusting the code, testing the robot in the lab, recording and re-testing the pickup/drop paths, fixing issues during the demo setup, and preparing the README and reflection/report. The work was completed as a group effort rather than being split into completely separate individual parts.
